@@ -1,11 +1,11 @@
-package com.johnny.designprinciple.simpleresponsibility;
+package com.johnny.designprinciple.simpleresponsibility.improve1;
 
 /**
  * @author johnnyhao
  *
  * 单一职责原则
  */
-public class SimpleResponsibility2 {
+public class SimpleResponsibility {
 
     public static void main(String[] args) {
         RoadVehicle roadVehicle = new RoadVehicle();
